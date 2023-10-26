@@ -8,9 +8,10 @@
 
 ### Personal Profile
  - 🔭 D1no
- - 🌱 Cyber Security
+ - 🌱 Cyber Security & Web security
  - 📫 QQ: 756231955
  - 📫 Gmail: yourdawntown@gmail.com
 
 ### Goal
- - 甘其食，美其服。安其居，乐其俗
+ - 甘其食，美其服。安其居，乐其俗。
+ - 道虽尔，不行不至。事虽小，不为不成。
