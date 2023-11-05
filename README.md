@@ -8,7 +8,7 @@
 
 ### Personal Profile
  - 🔭 D1no
- - 🌱 Cyber Security & Web security
+ - 🌱 Web security & Forensics
  - 📫 QQ: 756231955
  - 📫 Gmail: yourdawntown@gmail.com
 
